@@ -22,6 +22,7 @@ red = a[0, :, :]
 green = a[1, :, :]
 blue  = a[2, :, :]
 
+# the three possible roots
 p1 = 1. + 0.j
 p2 = complex(-0.5, sqrt(3.)/2.)
 p3 = complex(-0.5, -sqrt(3.)/2.)
